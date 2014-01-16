@@ -19,7 +19,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="">
+    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="changes in main.xml&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Prosvetlenie.iws" />
@@ -467,7 +467,11 @@
       <created>1389870309182</created>
       <updated>1389870309182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes in main.xml&#10;">
+      <created>1389873999009</created>
+      <updated>1389873999009</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -517,7 +521,8 @@
     <MESSAGE value="add drawable" />
     <MESSAGE value="add drawable&#10;" />
     <MESSAGE value="changes in main.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in main.xml" />
+    <MESSAGE value="changes in main.xml&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes in main.xml&#10;" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
