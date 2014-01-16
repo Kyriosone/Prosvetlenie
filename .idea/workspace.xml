@@ -19,9 +19,7 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="changes in main.xml">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="" />
     <ignored path="Prosvetlenie.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
