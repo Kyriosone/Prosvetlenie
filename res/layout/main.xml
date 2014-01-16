@@ -2,43 +2,51 @@
 
 <TableLayout
         android:layout_width="fill_parent"
-        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+        >
     <TableRow
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_height="fill_parent" android:layout_gravity="center">
         <ImageView
                 android:layout_width="50dp"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:id="@+id/imageView" android:src="@drawable/mudra" android:scaleType="centerInside"
-                android:adjustViewBounds="true" android:layout_weight="1" android:contentDescription="@string/mudrabuttondiscription"/>
+                android:adjustViewBounds="true" android:layout_weight="1"
+                android:contentDescription="@string/mudrabuttondiscription"
+                android:layout_margin="10dp"/>
         <ImageView
                 android:layout_width="50dp"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:id="@+id/imageView2" android:src="@drawable/yoga" android:adjustViewBounds="true"
-                android:scaleType="centerInside" android:layout_weight="1" android:contentDescription="@string/yogabuttondiscription"/>
+                android:scaleType="centerInside" android:layout_weight="1"
+                android:contentDescription="@string/yogabuttondiscription"
+                android:layout_margin="10dp"/>
     </TableRow>
     <TableRow
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent" android:layout_weight="1">
+            android:layout_height="fill_parent" android:layout_weight="1" android:layout_gravity="center">
         <ImageView
                 android:layout_width="50dp"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:id="@+id/imageView3" android:layout_weight="1" android:scaleType="centerInside"
-                android:src="@drawable/tai" android:contentDescription="@string/taichibuttondiscription"/>
+                android:src="@drawable/tai" android:contentDescription="@string/taichibuttondiscription"
+                android:adjustViewBounds="true" android:layout_margin="10dp"/>
         <ImageView
                 android:layout_width="50dp"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:id="@+id/imageView4" android:layout_weight="1" android:scaleType="centerInside"
-                android:src="@drawable/ezo" android:contentDescription="@string/ezobuttondiscription"/>
+                android:src="@drawable/ezo" android:contentDescription="@string/ezobuttondiscription"
+                android:adjustViewBounds="true" android:layout_margin="10dp"/>
     </TableRow>
     <TableRow
             android:layout_width="fill_parent"
-            android:layout_height="fill_parent" android:layout_weight="1">
+            android:layout_height="fill_parent" android:layout_weight="1" android:layout_gravity="center"
+            android:layout_margin="10dp">
         <ImageView
                 android:layout_width="50dp"
-                android:layout_height="wrap_content"
+                android:layout_height="150dp"
                 android:id="@+id/imageView5" android:src="@drawable/prana" android:scaleType="centerInside"
                 android:adjustViewBounds="true" android:layout_weight="1" android:layout_gravity="center"
-                android:contentDescription="@string/pranabuttondiscription"/>
+                android:contentDescription="@string/pranabuttondiscription" android:layout_margin="10dp"/>
     </TableRow>
 </TableLayout>
