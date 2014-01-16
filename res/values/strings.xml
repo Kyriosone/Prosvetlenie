@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Prosvetlenie</string>
+    <string name="mudrabuttondiscription">Mudra button</string>
+    <string name="yogabuttondiscription">YogaButton</string>
+    <string name="taichibuttondiscription">TaichiButton</string>
+    <string name="ezobuttondiscription">EkzoButton</string>
+    <string name="pranabuttondiscription">PranaButton</string>
+
+
 </resources>
