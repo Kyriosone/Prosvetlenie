@@ -19,7 +19,9 @@
     </layouts>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="" />
+    <list default="true" id="2d5ea125-b02e-4a6a-867e-971f7d9237fa" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Prosvetlenie.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -85,7 +87,7 @@
       <file leaf-file-name="MainMenu.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/Prosvetlenie/MainMenu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="354" selection-end="354" vertical-scroll-proportion="0.23050848" vertical-offset="0" max-vertical-offset="885">
+            <state line="15" column="62" selection-start="357" selection-end="357" vertical-scroll-proportion="0.26892656" vertical-offset="0" max-vertical-offset="885">
               <folding />
             </state>
           </provider>
@@ -610,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/Prosvetlenie/MainMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="7" selection-start="354" selection-end="354" vertical-scroll-proportion="0.23050848" vertical-offset="0" max-vertical-offset="885">
+        <state line="15" column="62" selection-start="357" selection-end="357" vertical-scroll-proportion="0.26892656" vertical-offset="0" max-vertical-offset="885">
           <folding />
         </state>
       </provider>
